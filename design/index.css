@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+h1{
+  Oswald Regular
+  2.1em font size
+  #303030
+}
+h2{
+  Oswald Regular
+  1.56em font size
+  #f2f2f2
+}
+h2 a{
+  Oswald Regular
+  1.56em font size
+  #f2f2f2
+  italicize & underline
+}
+h2 a:hover{
+  Oswald Regular
+  1.56em font size
+  #d49b30
+  italicize & underline
+}
+
+h3{
+  Lato Black
+  1.125em font size
+  #8e5942
+  uppercase
+}
+
+h4{
+  Lato Light
+  1.125em font size
+  #8e5942
+  uppercase
+}
+p{
+  Lato Regular
+  1em font size
+  #303030
+  1.6em line height
+}
+p a{
+  Lato Bold Italic
+  1em font size
+  #be5f27
+}
+p a:hover{
+  Lato Bold Italic
+  1em font size
+  #d49b3c
+  underline
+}
+nav p{
+  Lato Regular
+  1.06em font size
+  #303030
+}
+footer p{
+  Oswald Regular
+  .9em font size
+  #f2f2f2
+}
+/* Styles for images */
+#logo {
+
+}
+
+/* Styles from original style guide */
